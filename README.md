@@ -87,10 +87,14 @@ The user can choose to:
 
 1. Clone or download the project into a folder.
 2. (Recommended) Create a virtual environment:
-
 ```bash
 python -m venv .venv
+```
 3. Activate it (Windows PowerShell)
+```bash
 .\.venv\Scripts\Activate.ps1
+```
 4. From the project directory, run:
+```bash
 py main.py
+
